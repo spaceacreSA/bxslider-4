@@ -26,6 +26,16 @@
 	display: block;
 }
 
+/** MAIN WRAPPER
+===================================*/
+.sliderwrapper{
+
+height: auto;
+width: 1000px;
+margin:auto;
+
+}
+
 /** THEME
 ===================================*/
 
